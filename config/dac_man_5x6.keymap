@@ -9,9 +9,7 @@
 / {
     keymap {
         compatible = "zmk,keymap";
-        reset = &reset_gpio {;
-                                status = "okay";
-                            };
+
 
         default_layer {
 // Commented layout is not actual layout.
