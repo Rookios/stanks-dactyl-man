@@ -9,6 +9,7 @@
 / {
     keymap {
         compatible = "zmk,keymap";
+        reset = <&reset>;
 
         default_layer {
 // Commented layout is not actual layout.
