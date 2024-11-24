@@ -47,7 +47,7 @@
 
 &trans     &trans    &trans     &trans     &kp LBKT                        &kp RBKT      &kp 7      &kp 8      &kp 9      &trans
 &kp HOME   &kp PG_UP &kp PG_DN  &kp END    &kp LPAR                        &kp RPAR      &kp 4      &kp 5      &kp 6      &kp MINUS
-&trans     &trans    &trans     &trans     &reset                          &bootloader   &kp 1      &kp 2      &kp 3      &kp FSLH
+&trans     &trans    &trans     &trans     &trans                          &bootloader   &kp 1      &kp 2      &kp 3      &kp FSLH
            &trans    &kp PSCRN                                                                      &trans     &trans
                                      &trans     &trans                          &trans        &trans
                                                 &trans &trans            &trans &trans
