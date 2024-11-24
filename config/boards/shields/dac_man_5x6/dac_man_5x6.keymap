@@ -9,7 +9,7 @@
 / {
     keymap {
         compatible = "zmk,keymap";
-        reset = &reset_gpio {
+        reset = &reset_gpio {;
                                 status = "okay";
                             };
 
